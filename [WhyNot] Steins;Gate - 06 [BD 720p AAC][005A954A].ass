@@ -30,7 +30,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Active Line: 6
-Video Position: 604
+Video Position: 628
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +52,7 @@ Dialogue: 0,0:00:09.95,0:00:11.66,Default,,0,0,0,,Since morning, many people hav
 Dialogue: 0,0:00:11.66,0:00:13.54,Default,,0,0,0,,to see it again,
 Dialogue: 0,0:00:13.54,0:00:16.37,Default,,0,0,0,,but the satellite's origin remains unknown,
 Dialogue: 0,0:00:16.37,0:00:20.46,Default,,0,0,0,,and there's no timetable \Nfor when it'll be taken down.
-Dialogue: 0,0:00:25.17,0:00:26.05,Sign1,,0,0,0,,{\blur2.7\frz11.552\frx6\fry6\fscx81.25\fscy85\pos(859.5,631.5)}Mail Received
+Dialogue: 0,0:00:25.13,0:00:26.01,Sign1,,0,0,0,,{\blur2.7\frz11.552\frx6\fry6\fscx81.25\fscy85\pos(859.5,631.5)}Mail Received
 Dialogue: 0,0:00:41.52,0:00:43.27,Default,,0,0,0,,Do you have a moment?
 Dialogue: 0,0:00:43.86,0:00:46.15,Default,,0,0,0,,Are you here to see the satellite?
 Dialogue: 0,0:00:46.86,0:00:49.15,Default,,0,0,0,,Could you tell us where you're from?
