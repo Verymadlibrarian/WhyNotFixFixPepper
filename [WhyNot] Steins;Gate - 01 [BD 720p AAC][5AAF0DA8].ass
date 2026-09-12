@@ -28,9 +28,10 @@ Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 168
-Active Line: 198
+Video Zoom Percent: 0.375000
+Scroll Position: 579
+Active Line: 592
+Video Position: 17367
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -649,10 +650,7 @@ Dialogue: 0,0:12:00.29,0:12:00.49,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&
 Dialogue: 0,0:12:00.49,0:12:00.69,op kara,,0,0,0,fx,{\pos(960,49.5)\alpha&H00&\blur1.5\bord1.5}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:12:00.69,0:12:00.89,op kara,,0,0,0,fx,{\pos(960,52.5)\alpha&H00&\blur3}nomikomareteyuku kodoku no kansokusha
 Dialogue: 0,0:12:00.89,0:12:00.94,op kara,,0,0,0,fx,{\pos(955.5,55.5)\alpha&H70&\blur3}nomikomareteyuku kodoku no kansokusha
-Dialogue: 0,0:12:00.94,0:12:02.94,op trans,,0,0,0,,
-Dialogue: 0,0:12:02.94,0:12:04.94,op trans,,0,0,0,,
 Dialogue: 0,0:12:04.33,0:12:05.79,Default,,0,0,0,,Hey, you there!
-Dialogue: 0,0:12:04.94,0:12:06.94,op trans,,0,0,0,,
 Dialogue: 0,0:12:06.58,0:12:08.33,Default,,0,0,0,,Can you see us?
 Dialogue: 0,0:12:09.04,0:12:10.29,Default,,0,0,0,,Why don't you answer?
 Dialogue: 0,0:12:10.96,0:12:13.96,Default,,0,0,0,,You, on the other side of the monitor, with the vacant expression!
