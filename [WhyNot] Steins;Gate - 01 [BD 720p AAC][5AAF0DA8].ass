@@ -28,10 +28,10 @@ Audio File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gate Complete Series 1080p [Multi-Audio]/01. Steins;Gate/Steins;Gate - 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 796
-Active Line: 808
-Video Position: 31123
+Video Zoom Percent: 0.625000
+Scroll Position: 815
+Active Line: 817
+Video Position: 31465
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -869,35 +869,35 @@ Dialogue: 0,0:21:36.98,0:21:37.61,Sign1,,0,0,0,,{\blur3\b1\bord1.5\3c&HEEE9E9&\f
 Dialogue: 0,0:21:37.61,0:21:38.07,Sign1,,0,0,0,,{\blur3\b1\bord1.5\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}Makise Kurisu."
 Dialogue: 0,0:21:38.44,0:21:39.11,Default,,0,0,0,,See?
 Dialogue: 0,0:21:40.11,0:21:43.45,Default,,0,0,0,,Last week... Let me check my sent folder.
-Dialogue: 0,0:21:43.49,0:21:44.45,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRe: Upa...
-Dialogue: 0,0:21:43.49,0:21:44.45,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD5D7&}Daru \NLet's go!
-Dialogue: 0,0:21:43.49,0:21:44.45,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NLook at \Nthis
-Dialogue: 0,0:21:44.45,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,304.5)}\NDaru \NLet's go!
-Dialogue: 0,0:21:44.45,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,586.5)}Mayuri \NLook at \Nthis
-Dialogue: 0,0:21:44.45,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,898.5)}Mayuri \NRe: Don't \Nsell it
-Dialogue: 0,0:21:44.66,0:21:44.82,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,264)}\NMayuri \NLook at \Nthis
-Dialogue: 0,0:21:44.66,0:21:44.82,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,594)}Mayuri \NRe: Don't \Nsell it
-Dialogue: 0,0:21:44.66,0:21:44.82,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,865.5)}Faris \NRe: \NRevival Prophecy \NSong
+Dialogue: 0,0:21:43.62,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRe: Upa...
+Dialogue: 0,0:21:43.62,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD5D7&}Daru \NLet's go!
+Dialogue: 0,0:21:43.62,0:21:44.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NLook at \Nthis
+Dialogue: 0,0:21:44.66,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,304.5)}\NDaru \NLet's go!
+Dialogue: 0,0:21:44.66,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,586.5)}Mayuri \NLook at \Nthis
+Dialogue: 0,0:21:44.66,0:21:44.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,898.5)}Mayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:44.83,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,264)}\NMayuri \NLook at \Nthis
+Dialogue: 0,0:21:44.83,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,594)}Mayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:44.83,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,865.5)}Faris \NRe: \NRevival Prophecy \NSong
 Dialogue: 0,0:21:44.70,0:21:45.70,Default,,0,0,0,,It's not here!
-Dialogue: 0,0:21:44.82,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,256.5)}\NMayuri \NRe: Don't \Nsell it
-Dialogue: 0,0:21:44.82,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,558)}Faris \NRe: \NRevival Prophecy \NSong
-Dialogue: 0,0:21:44.82,0:21:44.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,877.5)}Luka \NRe: \NI made \Nsnacks
-Dialogue: 0,0:21:44.99,0:21:46.32,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,231)}\NFaris \NRe: \NRevival Prophecy\N Song
-Dialogue: 0,0:21:44.99,0:21:46.32,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,561)}Luka \NRe: \NI made \Nsnacks
-Dialogue: 0,0:21:44.99,0:21:46.32,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,915)}Daru \NRe: \N(No subject)
+Dialogue: 0,0:21:44.99,0:21:45.16,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,256.5)}\NMayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:44.99,0:21:45.16,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,558)}Faris \NRe: \NRevival Prophecy \NSong
+Dialogue: 0,0:21:44.99,0:21:45.16,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,877.5)}Luka \NRe: \NI made \Nsnacks
+Dialogue: 0,0:21:45.16,0:21:46.49,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,231)}\NFaris \NRe: \NRevival Prophecy\N Song
+Dialogue: 0,0:21:45.16,0:21:46.49,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,561)}Luka \NRe: \NI made \Nsnacks
+Dialogue: 0,0:21:45.16,0:21:46.49,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,915)}Daru \NRe: \N(No subject)
 Dialogue: 0,0:21:45.70,0:21:47.16,Default,,0,0,0,,What is today?
-Dialogue: 0,0:21:46.32,0:21:46.49,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,256.5)}\NMayuri \NRe: Don't \Nsell it
-Dialogue: 0,0:21:46.32,0:21:46.49,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,558)}Faris \NRe: \NRevival Prophecy \NSong
-Dialogue: 0,0:21:46.32,0:21:46.49,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,877.5)}Luka \NRe: \NI made \Nsnacks
-Dialogue: 0,0:21:46.49,0:21:46.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,264)}\NMayuri \NLook at \Nthis
-Dialogue: 0,0:21:46.49,0:21:46.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,594)}Mayuri \NRe: Don't \Nsell it
-Dialogue: 0,0:21:46.49,0:21:46.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,865.5)}Faris \NRe: \NRevival Prophecy \NSong
-Dialogue: 0,0:21:46.66,0:21:46.82,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,304.5)}\NDaru \NLet's go!
-Dialogue: 0,0:21:46.66,0:21:46.82,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,586.5)}Mayuri \NLook at \Nthis
-Dialogue: 0,0:21:46.66,0:21:46.82,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,898.5)}Mayuri \NRe: Don't \Nsell it
-Dialogue: 0,0:21:46.82,0:21:47.16,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRe: Upa...
-Dialogue: 0,0:21:46.82,0:21:47.16,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD5D7&}Daru \NLet's go!
-Dialogue: 0,0:21:46.82,0:21:47.16,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NLook at \Nthis
+Dialogue: 0,0:21:46.49,0:21:46.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,256.5)}\NMayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:46.49,0:21:46.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,558)}Faris \NRe: \NRevival Prophecy \NSong
+Dialogue: 0,0:21:46.49,0:21:46.66,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,877.5)}Luka \NRe: \NI made \Nsnacks
+Dialogue: 0,0:21:46.66,0:21:46.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,264)}\NMayuri \NLook at \Nthis
+Dialogue: 0,0:21:46.66,0:21:46.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,594)}Mayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:46.66,0:21:46.83,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,865.5)}Faris \NRe: \NRevival Prophecy \NSong
+Dialogue: 0,0:21:46.83,0:21:46.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,304.5)}\NDaru \NLet's go!
+Dialogue: 0,0:21:46.83,0:21:46.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,586.5)}Mayuri \NLook at \Nthis
+Dialogue: 0,0:21:46.83,0:21:46.99,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,898.5)}Mayuri \NRe: Don't \Nsell it
+Dialogue: 0,0:21:46.99,0:21:47.33,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRe: Upa...
+Dialogue: 0,0:21:46.99,0:21:47.33,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD5D7&}Daru \NLet's go!
+Dialogue: 0,0:21:46.99,0:21:47.33,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NLook at \Nthis
 Dialogue: 0,0:21:47.16,0:21:49.37,Default,,0,0,0,,The... The 28th.
 Dialogue: 0,0:21:51.29,0:21:52.00,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:21:52.00,0:21:54.50,Default,,0,0,0,,That message was sent to the past...
