@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 712
-Active Line: 724
-Video Position: 26613
+Scroll Position: 781
+Active Line: 777
+Video Position: 30454
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -823,8 +823,8 @@ Dialogue: 0,0:20:50.65,0:20:53.82,Default,,0,0,0,,beyond Divergence 1%...
 Dialogue: 0,0:20:54.73,0:20:57.24,Default,,0,0,0,,Lead the world?
 Dialogue: 0,0:21:00.36,0:21:03.49,Default,,0,0,0,,What lies beyond Divergence 1%?
 Dialogue: 0,0:21:03.49,0:21:06.08,Default,,0,0,0,,What happens then?
-Dialogue: 0,0:21:07.29,0:21:08.37,Sign1,,0,0,0,,{\fad(200,0)\blur2.25\frz356.676\fscx67.5\fscy80\c&H111614&\pos(916.5,514.5)}Sending...
-Dialogue: 0,0:21:08.37,0:21:09.50,Sign1,,0,0,0,,{\blur2.25\fscx75\fscy85\c&H1F2624&\frz356.676\pos(898.5,366)}Sent
+Dialogue: 0,0:21:07.25,0:21:08.33,Sign1,,0,0,0,,{\fad(200,0)\blur2.25\frz356.676\fscx67.5\fscy80\c&H111614&\pos(916.5,514.5)}Sending...
+Dialogue: 0,0:21:08.33,0:21:09.46,Sign1,,0,0,0,,{\blur2.25\fscx75\fscy85\c&H1F2624&\frz356.676\pos(898.5,366)}Sent
 Dialogue: 0,0:21:22.55,0:21:25.35,Default,,0,0,0,,What lies beyond it is true freedom.
 Dialogue: 0,0:21:25.35,0:21:27.31,Default,,0,0,0,,If you can't cross that barrier,
 Dialogue: 0,0:21:27.31,0:21:29.23,Default,,0,0,0,,the future will become a dystopia.
