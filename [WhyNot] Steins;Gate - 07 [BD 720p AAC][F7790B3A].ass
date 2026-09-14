@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 553
-Active Line: 564
-Video Position: 13781
+Scroll Position: 712
+Active Line: 724
+Video Position: 26613
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -770,9 +770,9 @@ Dialogue: 0,0:18:08.57,0:18:12.20,Default,,0,0,0,,You're like a girl, \Nwaiting 
 Dialogue: 0,0:18:13.11,0:18:15.53,Default,,0,0,0,,You really want attention that much?
 Dialogue: 0,0:18:18.29,0:18:20.00,Default,,0,0,0,,Who was that message for?
 Dialogue: 0,0:18:21.91,0:18:23.21,Default,,0,0,0,,John Titor.
-Dialogue: 0,0:18:27.59,0:18:30.09,Sign1,,0,0,0,,{\blur2.7\frz0.305\fscx122.5\fscy120\pos(1068,327)}Lukako
-Dialogue: 0,0:18:27.59,0:18:30.09,Sign1,,0,0,0,,{\blur2.7\frz0.305\fscx117.5\fscy117.5\pos(1066.5,469.5)}The Lottery
-Dialogue: 0,0:18:27.59,0:18:30.09,Sign1,,0,0,0,,{\blur2.7\fscx147.5\fscy137.5\frz359.901\pos(315,694.5)\c&HEAEAEA&}I'm really sorry
+Dialogue: 0,0:18:27.54,0:18:30.05,Sign1,,0,0,0,,{\blur2.7\frz0.305\fscx122.5\fscy120\pos(1068,327)}Lukako
+Dialogue: 0,0:18:27.54,0:18:30.05,Sign1,,0,0,0,,{\blur2.7\frz0.305\fscx117.5\fscy117.5\pos(1066.5,469.5)}The Lottery
+Dialogue: 0,0:18:27.54,0:18:30.05,Sign1,,0,0,0,,{\blur2.7\fscx147.5\fscy137.5\frz359.901\pos(315,694.5)\c&HEAEAEA&}I'm really sorry
 Dialogue: 0,0:18:34.93,0:18:37.14,Sign1,,0,0,0,,{\an7\fs97.5\be8\fr-24\c&H9D9D9D&\fax-.2\move(1159.5,555,1315.5,379.5)}I Had Fun
 Dialogue: 0,0:18:34.93,0:18:37.14,Sign1,,0,0,0,,{\an7\fs82.5\be8\move(768,688.5,922.5,510)\fax-0.2\c&H838383&\frz359.8\fr-24}Next time, tell me about \Nthe time machine. \NIt's a promise. \NA promise, right? \NBye! \NMoeka
 Dialogue: 0,0:18:45.65,0:18:46.31,Default,,0,0,0,,Daru?
