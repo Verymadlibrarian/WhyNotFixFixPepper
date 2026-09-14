@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 415
-Active Line: 423
-Video Position: 4963
+Scroll Position: 460
+Active Line: 454
+Video Position: 6244
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -500,7 +500,7 @@ Dialogue: 0,0:04:08.02,0:04:11.02,Default,,0,0,0,,It's hot in here. Let's open a
 Dialogue: 0,0:04:11.02,0:04:12.44,Default,,0,0,0,,What are you doing, Daru?
 Dialogue: 0,0:04:12.94,0:04:15.61,Default,,0,0,0,,What if the Organization discovers our secret...
 Dialogue: 0,0:04:15.61,0:04:16.65,Default,,0,0,0,,Delusion fail!
-Dialogue: 0,0:04:18.70,0:04:19.66,Sign1,,0,0,0,,{\blur2.7\frx10\fry2\an8\fscx167.5\fscy145\frz319.25\pos(808.5,585)}What's a Round Table?
+Dialogue: 0,0:04:18.65,0:04:19.61,Sign1,,0,0,0,,{\blur2.7\frx10\fry2\an8\fscx167.5\fscy145\frz319.25\pos(808.5,585)}What's a Round Table?
 Dialogue: 0,0:04:22.66,0:04:25.87,Default,,0,0,0,,We will now move Operation Urd to stage two,
 Dialogue: 0,0:04:25.87,0:04:28.66,Default,,0,0,0,,and take experiments on D-Mail
 Dialogue: 0,0:04:28.66,0:04:30.12,Default,,0,0,0,,to a more practical level.
