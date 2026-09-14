@@ -29,9 +29,9 @@ Video File: //192.168.1.99/mnt/12tb/media/_downloads/temp/[AOmundson] Steins;Gat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 460
-Active Line: 454
-Video Position: 6244
+Scroll Position: 553
+Active Line: 564
+Video Position: 13781
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -543,7 +543,7 @@ Dialogue: 0,0:06:03.13,0:06:03.68,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:06.30,0:06:07.81,Default,,0,0,0,,Wait!
 Dialogue: 0,0:06:09.81,0:06:12.02,Default,,0,0,0,,Sheesh... I can't take my eyes \Noff you for a second.
 Dialogue: 0,0:06:12.02,0:06:13.90,Default,,0,0,0,,It's because you didn't respond.
-Dialogue: 0,0:06:14.73,0:06:16.81,Sign1,,0,0,0,,{\blur2.7\t(0,2080,\fs85.5)\move(475.5,603,432,607.5,0,2065)}I really want to borrow \Nthe IBN 5100. Please... \NI'll take that as a yes?
+Dialogue: 0,0:06:14.69,0:06:16.77,Sign1,,0,0,0,,{\blur2.7\t(0,2080,\fs85.5)\move(475.5,603,432,607.5,0,2065)}I really want to borrow \Nthe IBN 5100. Please... \NI'll take that as a yes?
 Dialogue: 0,0:06:18.02,0:06:20.78,Default,,0,0,0,,Is she supposed to be a valley girl LOL?
 Dialogue: 0,0:06:20.78,0:06:24.11,Default,,0,0,0,,Christina, keep a close eye on her,
 Dialogue: 0,0:06:24.11,0:06:25.74,Default,,0,0,0,,so she doesn't wander around!
@@ -610,8 +610,8 @@ Dialogue: 0,0:09:10.36,0:09:12.07,Default,,0,0,0,,That's too dangerous.
 Dialogue: 0,0:09:12.07,0:09:14.12,Default,,0,0,0,,If you create a time paradox...
 Dialogue: 0,0:09:17.41,0:09:20.12,Default,,0,0,0,,Why am I so scared?
 Dialogue: 0,0:09:27.34,0:09:30.59,Default,,0,0,0,,El Psy Kongroo!
-Dialogue: 0,0:09:32.01,0:09:33.05,Sign1,,0,0,0,,{\fad(200,0)\blur2.85\frz353.869\c&H585249&\pos(847.5,348)}Sending...
-Dialogue: 0,0:09:33.05,0:09:35.01,Sign1,,0,0,0,,{\blur2.85\frz353.869\c&H585249&\pos(882,502.5)}Sent
+Dialogue: 0,0:09:31.97,0:09:33.01,Sign1,,0,0,0,,{\fad(200,0)\blur2.85\frz353.869\c&H585249&\pos(847.5,348)}Sending...
+Dialogue: 0,0:09:33.01,0:09:34.97,Sign1,,0,0,0,,{\blur2.85\frz353.869\c&H585249&\pos(882,502.5)}Sent
 Dialogue: 0,0:09:50.86,0:09:51.40,Default,,0,0,0,,Okarin!
 Dialogue: 0,0:09:53.99,0:09:55.37,Default,,0,0,0,,Okarin!
 Dialogue: 0,0:09:59.91,0:10:01.16,Default,,0,0,0,,Are you okay?
